@@ -88,3 +88,9 @@ make systemtests
 ```
 make unittests
 ```
+
+## Running test samples with bash script
+```
+cd ${PROJECT_DIRECTORY}/test_samples/${TEST_SECTION_FOLDER}/${TEST_FOLDER}
+./run.sh
+```
